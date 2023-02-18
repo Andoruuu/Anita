@@ -13,11 +13,14 @@ div h1 {position: flex;
     text-shadow: 3.5px 0 black;
     justify-content: center;
     align-items: center;
-    font-family: monospace;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 60px;
     background-color: hotpink;
     border-radius: 3px;
+    font-family: italianno, cursive;
+    border-left-width: 0px;
+    width: 10 20px;
+    border-right-width: 50px;
 }
 
 h1  {text-align: center;
@@ -30,7 +33,7 @@ h1  {text-align: center;
 
 p    
 {
-    font-size: x-large;
+    font-size: 25px;
     text-align: justify;
     text-indent: 30px;
     margin: 10.5px;
