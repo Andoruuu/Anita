@@ -1,0 +1,25 @@
+body {margin: 30px;}
+
+h1 {text-align: center;
+    font-family:fantasy;
+    color: crimson;
+    font-size: 350%;
+    }
+
+h2 {text-align: left; 
+    padding: 20px 10%;
+    margin-left: 6%;
+    margin-top: 20px;
+    font-size: xx-large;
+}
+
+
+.BI {text-align: justify; padding: 10px;
+     padding-right: 30px; padding-bottom: 0;}
+th {padding-right: 100px; text-align: justify;}
+td {text-align: justify;}
+img {width: 600px; margin-top: 20px;}
+p {padding: 10px;}
+
+
+

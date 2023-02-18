@@ -1,0 +1,44 @@
+* {font-family: sans-serif;}
+
+h1 {text-align: center;
+font-size: 40px; font-family:'Courier New', Courier, monospace;
+background:url(data:image/jpeg;base64,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); width: 10000px 20000px;}
+
+.formularios {padding: 10px;}
+
+body {color: rgb(255, 0, 0);
+    background-color: rgba(238, 49, 49, 0.153);
+    background: url(https://losroblesenlinea.com.ve/site/wp-content/uploads/2015/03/labs.jpg);
+ }
+
+fieldset {background-color: rgba(0, 0, 0, 0.948);
+            width: 50%;
+        border: 5px solid black;
+        border-radius: 5px;} 
+
+form fieldset legend {text-align: center; background-color: aliceblue; 
+    padding: 5px;
+    border-radius: 3px;}
+
+.cuadrotexto {padding: 10px;
+    padding-right: 80px;
+    width: 110px;
+    size: 100px;
+    margin: 0px;
+    border-radius: 5px;
+    border-color: black;
+
+}
+
+label, legend {font-family: system-ui, -apple-system,
+     BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, 
+     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    margin: 0px; font-size: 25px;
+}
+
+.erigay {font-family:'Times New Roman', Times, serif}
+
+#lenguajes {}
+
+
