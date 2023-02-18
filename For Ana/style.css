@@ -33,6 +33,7 @@ p
     font-size: x-large;
     text-align: justify;
     text-indent: 30px;
+    margin: 10px;
 }
 
 li {font-size: xx-large;
