@@ -14,14 +14,21 @@ div h1 {position: flex;
     justify-content: center;
     align-items: center;
     font-weight: bold;
-    font-size: 60px;
+    font-size: 500%;
     background-color: hotpink;
-    border-radius: 3px;
+    border-radius: 20px;
     font-family: italianno, cursive;
     border-left-width: 0px;
     width: 10 20px;
     border-right-width: 50px;
 }
+
+hr {width: 100%;
+    border-style: none;
+    border-radius: 0;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: hotpink;}
 
 h1  {text-align: center;
     margin-top: 5px ;
@@ -48,3 +55,8 @@ li img {width: 100%;
     }
 
 
+.final {text-align: center;
+                margin: 15px;
+            text-indent: 0;}
+
+a {color: hotpink; }
